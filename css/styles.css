@@ -175,3 +175,15 @@ p {
     margin: 10px 20px;
 }
 
+.footer-link:active{
+    color: black;
+}
+
+.footer-link:visited{
+    color: black;
+}
+
+.footer-link:link{
+    color: black;
+}
+
